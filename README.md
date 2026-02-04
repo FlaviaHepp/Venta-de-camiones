@@ -1,4 +1,4 @@
-# Análisis de rentabilidad en la venta de camiones
+# 🚛Análisis de rentabilidad en la venta de camiones
 
 Este proyecto analiza distintos **escenarios de venta de camiones** con el objetivo de **maximizar la ganancia total**, considerando precios de venta, costos de producción y volúmenes vendidos.
 
@@ -6,7 +6,7 @@ El análisis permite evaluar decisiones comerciales desde una perspectiva **data
 
 ---
 
-## 🚚 Contexto del negocio
+## 🚚Contexto del negocio
 
 Una empresa dedicada a la venta de camiones necesita definir:
 - precios de venta competitivos
@@ -17,7 +17,7 @@ Este proyecto modela el problema para **comparar escenarios de negocio** y apoya
 
 ---
 
-## 🎯 Objetivos
+## 🎯Objetivos
 
 - Calcular ingresos, costos y ganancias
 - Comparar ganancias bajo distintos escenarios
@@ -26,7 +26,7 @@ Este proyecto modela el problema para **comparar escenarios de negocio** y apoya
 
 ---
 
-## 📊 Supuestos del modelo
+## 📊Supuestos del modelo
 
 - Se consideran precios de venta fijos por escenario
 - El costo de producción por camión es constante
@@ -37,7 +37,7 @@ Estos supuestos permiten **simplificar el análisis** y centrarse en la comparac
 
 ---
 
-## 🧮 Metodología
+## 🧮Metodología
 
 Para cada escenario se calcula:
 
@@ -54,7 +54,7 @@ Los resultados se comparan para determinar el escenario óptimo.
 
 ---
 
-## 📌 Resultados principales
+## 📌Resultados principales
 
 - Se identifican escenarios con ganancia positiva y negativa
 - El aumento del precio de venta no siempre implica mayor ganancia
@@ -63,7 +63,7 @@ Los resultados se comparan para determinar el escenario óptimo.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️Tecnologías utilizadas
 
 - **Python**
 - Estructuras básicas de programación
@@ -71,7 +71,7 @@ Los resultados se comparan para determinar el escenario óptimo.
 
 ---
 
-## 📂 Estructura del repositorio
+## 📂Estructura del repositorio
 
 ├── venta_camiones.py
 ├── README.md
@@ -79,7 +79,7 @@ Los resultados se comparan para determinar el escenario óptimo.
 
 ---
 
-## 🚀 Próximos pasos
+## 🚀Próximos pasos
 
 - Incorporar análisis de sensibilidad
 - Simular escenarios con demanda variable
@@ -89,7 +89,7 @@ Los resultados se comparan para determinar el escenario óptimo.
 
 ---
 
-## 👤 Autor
+## 👤Autor
 
 **Flavia Hepp**  
 Data Analyst / Business Analytics en formación  
